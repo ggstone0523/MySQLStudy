@@ -1,0 +1,15 @@
+데이터베이스 만들기 - 테이블 만들기 - 데이터 입력하기 - 데이터 조회하기
+
+4
+
+1 - UPDATE
+2 - SELECT
+3 - CREATE
+4 - DELETE
+
+1 - INT
+2 - NOT NULL
+3 - CHAR
+4 - DATE
+
+1
